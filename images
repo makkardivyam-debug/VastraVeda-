@@ -1,17 +1,1 @@
-body {
-    margin: 0;
-    font-family: 'Poppins', sans-serif;
-
-    background:
-        linear-gradient(
-            rgba(255, 248, 240, 0.9),
-            rgba(255, 248, 240, 0.9)
-        ),
-        url("images/kanha_bg.png");
-
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
 
